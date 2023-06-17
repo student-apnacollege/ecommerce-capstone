@@ -1,8 +1,6 @@
----
 ## Problem Statement
 
 Design and develop a web application for an e-commerce platform specializing in selling gadgets, addressing the following challenges for both users and administrators:
----
 
 ## User-Facing Challenges
 
