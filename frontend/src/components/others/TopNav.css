@@ -1,0 +1,7 @@
+#topNav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px;
+    background-color: rgb(5, 27, 5);
+    color:white;
+}
