@@ -1,0 +1,51 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 30px;
+    align-items: center;
+}
+
+#navLogo{
+    display: flex;
+    align-items: center;
+}
+
+#navLinks ul{
+    display: flex;
+    list-style: none;
+}
+
+#navLinks ul li{
+    margin: 10px 30px;
+}
+
+#navAuth{
+    display: flex;
+}
+
+#navAuth div{
+    display: flex;
+    margin: 20px;
+    align-items: center;
+}
+
+#navSearch{
+    background-color: rgb(196, 205, 205);
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#navSearch input{
+    background-color: rgb(196, 205, 205);
+    border: none;
+}
+
+
+#categoryDropdown{
+    border: none;
+}
+
+option{
+    background-color: transparent;
+}
