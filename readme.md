@@ -28,9 +28,9 @@ Design and develop a web application for an e-commerce platform specializing in 
 
 ## Administrator-Facing Challenges
 
-1. Product Management: Provide administrators with a user-friendly interface to add, edit, and update product information, including details such as specifications, pricing, availability, and images. Enable bulk product import/export functionality for efficient management.
+- Product Management: Provide administrators with a user-friendly interface to add, edit, and update product information, including details such as specifications, pricing, availability, and images. Enable bulk product import/export functionality for efficient management.
 
-2. Order Management: Develop a comprehensive system that allows administrators to view, track, and manage customer orders, including order processing, shipment tracking, and generating invoices. Implement features to handle order cancellations, returns, and refunds.
+- Order Management: Develop a comprehensive system that allows administrators to view, track, and manage customer orders, including order processing, shipment tracking, and generating invoices. Implement features to handle order cancellations, returns, and refunds.
 
 3. Inventory Control: Enable administrators to monitor and manage the inventory, including stock levels, replenishment, and automated notifications for low stock items. Implement features to easily update product availability and manage backorders.
 
